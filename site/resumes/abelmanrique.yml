@@ -1,0 +1,129 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    # Your full name
+    first_name: Abel
+    last_name: Manrique
+    
+    motto: Data-Driven Digital Marketer
+    
+    focus: SEO/SEM & Data Analytics
+    
+    summary: |
+      Soy un analista de marketing digital especializado en SEO y SEM, con experiencia en la optimización de campañas publicitarias y estrategias de crecimiento en entornos digitales. Mi enfoque se centra en obtener resultados medibles, reduciendo costos y maximizando el retorno de inversión a través del análisis de datos. Con más de cinco años de experiencia, he liderado equipos y proyectos en diferentes industrias, siempre alineado con los objetivos comerciales y necesidades del cliente.
+    
+    
+    avatar: https://www.instagram.com/instabel96/
+
+    # Contact Information
+    email: abel210696@gmail.com
+    phone: +34 697687238
+    website: 
+    linkedin: abel-manrique-luis-352b5399
+    github: belucci21
+    
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Advanced (C1)
+
+      - idiom: Catalan
+        level: Intermediate
+
+    # Interests or hobbies
+    interests:
+      - item: Marketing Digital
+      - item: Data Analytics
+      - item: Diseño Gráfico
+
+# Your previous education
+education:
+    - degree: Marketing, Publicidad y Medios Digitales
+      university: Universidad San Ignacio de Loyola
+      time: 2015 - 2019
+      details: |
+        Formación en marketing digital y publicidad con enfoque en la medición de resultados y análisis de campañas. 
+
+          - Proyectos de marketing online
+          - Certificaciones en Google Ads
+
+    - degree: Ingeniería Industrial (Inconcluso)
+      university: Universidad Peruana de Ciencias Aplicadas
+      time: 2013 - 2015
+      details: |
+        Estudios incompletos de ingeniería con enfoque en procesos industriales y gestión empresarial.
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: Analista Senior SEO SEM
+      time: Marzo 2023 - Actualidad
+      company: FX Barcelona Film School
+      details: |
+        Responsable del contenido de pago y estrategias SEO. Creación y optimización de landing pages con objetivos comerciales, además de la implementación y organización del CRM de ventas. Creación del departamento de marketing interno.
+
+          - Liderar el equipo de marketing
+          - Implementar estrategias SEO y SEM para aumentar leads
+
+    - role: Analista Senior de Marketing Digital
+      time: Enero 2021 - Diciembre 2022
+      company: Foreplay (E-commerce)
+      details: |
+        Encargado de las campañas de pago en plataformas digitales, proyectando ventas y analizando el mercado. Gestión de un equipo multidisciplinario de 5 personas.
+
+          - Optimización de campañas de pago en Meta, Google y otras plataformas
+          - Supervisión de contenido digital y equipo creativo
+
+    - role: Project Manager SEO/SEM
+      time: Noviembre 2020 - Diciembre 2021
+      company: DIRECTV
+      details: |
+        Gestión de campañas de captación de leads y maximización de ventas en toda Latinoamérica. Creación de contenido de valor y análisis de resultados de campañas en múltiples plataformas.
+
+          - Coordinación de campañas digitales en LATAM
+          - Supervisión de un equipo de marketing de 4 personas
+
+    - role: Project Manager SEO/SEM
+      time: Enero 2019 - Julio 2019
+      company: iSunny LATAM
+      details: |
+        Supervisión de proyectos SEO/SEM y comunicación directa con el cliente para cumplir objetivos de ROI y generación de leads.
+
+          - Presentación de resultados a clientes
+          - Optimización de campañas digitales
+
+# Your project portfolio
+projects:
+    intro: >
+      Mis proyectos incluyen la gestión de campañas digitales exitosas y la creación de estrategias de SEO/SEM que han generado resultados sólidos para diversas empresas.
+
+    assignments:
+      - title: SEO/SEM en FX Barcelona Film School
+        tagline: "Optimización y gestión de campañas digitales para una escuela de cine."
+
+      - title: Gestión de E-commerce en Foreplay
+        tagline: "Estrategia digital para maximizar ventas y posicionamiento en el sector de e-commerce."
+
+      - title: Campañas de Marketing en DIRECTV
+        tagline: "Proyectos de marketing digital para captación de leads y ventas en LATAM."
+
+skills:
+    toolset:
+      - name: Google Ads & SEMrush
+        level: 98%
+
+      - name: SEO & SEM
+        level: 98%
+
+      - name: CRM & Data Analysis
+        level: 95%
+
+      - name: Photoshop & Illustrator
+        level: 85%
+
+      - name: HTML & CSS
+        level: 80%
